@@ -1,7 +1,18 @@
 # HSTTN
+This is a PyTorch implementation of **Long-term Wind Power Forecasting with Hierarchical Spatial-Temporal Transformer**. 
 
-### Data link
-https://www.aliyundrive.com/s/opVMpy8Jo97
+If you use this code for your research, please cite our paper:
+
+```
+@inproceedings{zhang2023long,
+  title={Long-term Wind Power Forecasting with Hierarchical Spatial-Temporal Transformer},
+  author={Zhang, Yang and Liu, Lingbo and Xiong, Xinyu and Li, Guanbin and Wang, Guoli and Lin, Liang},
+  booktitle={International Joint Conference on Artificial Intelligence},
+  year={2023}
+}
+```
+### Data Download
+- [OneDrive](https://1drv.ms/f/s!Asbmu3Fgg-sHhRDShL--3wtsMcBd)
 
 ### Train with kddcup dataset
 * put the kddcup dataset in /data/kddcup or your own path
